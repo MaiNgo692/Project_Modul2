@@ -1,0 +1,8 @@
+package com.ra.entity;
+
+import java.util.Scanner;
+
+public interface ICategory {
+    void inputData(Scanner scanner);
+    void displayData();
+}
